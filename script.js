@@ -2,6 +2,16 @@
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
+// defining variables
+ var pwssLen = getPassLen();
+ var isUpperCase = getUpper();
+ var isLowerCase = getLower();
+ var isNumber = getNumber();
+ var isSymbol = getSymbol();
+ var randPasword = "";
+ var arrSymbols = [isUpperCase, isLowerCase, isNumber, isSymbol];
+
+
   //prompting
  function getPassLen() {
    var passLength = prompt(
