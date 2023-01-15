@@ -1,9 +1,9 @@
 # Generate-Password
 
 ## The links for my Project
-[github page]()
+[github page](https://github.com/Maha-Abdelnabi/Generate-Password)
 
-[deployed webpage]()
+[deployed webpage](https://maha-abdelnabi.github.io/Generate-Password/)
 
 # Descripton
 this is a generating password project as a bootcamp student.
